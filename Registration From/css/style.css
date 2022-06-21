@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 80;
+    margin: 0 auto;
+    background-color: rgb(192, 171, 171);
+    overflow: hidden;
+}
+
+.fbody{
+    width: 50%;
+    margin: 100px auto;
+    background-color: aliceblue;
+    padding: 25px;
+}
+.fhead{
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
